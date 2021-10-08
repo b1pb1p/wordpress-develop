@@ -113,7 +113,7 @@
 		"@wordpress/keycodes": "3.1.1",
 		"@wordpress/list-reusable-blocks": "2.1.10",
 		"@wordpress/media-utils": "2.1.1",
-		"@wordpress/notices": "3.1.5",
+		"@wordpress/notices": "3.2.3",
 		"@wordpress/nux": "4.1.10",
 		"@wordpress/plugins": "3.1.5",
 		"@wordpress/primitives": "2.1.1",
